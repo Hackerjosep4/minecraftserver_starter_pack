@@ -1,0 +1,6 @@
+{
+  "server_name": "My new server",
+  "jar_name": "Vanilla-1.21.1.jar",
+  "minimum_ram": "2G",
+  "maximum_ram": "4G"
+}
